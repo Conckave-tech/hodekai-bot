@@ -1,5 +1,0 @@
-node_modules/
-data/*.json
-auth_info_baileys/
-.env
-*.log
